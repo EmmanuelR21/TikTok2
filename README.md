@@ -1,1 +1,3 @@
-# TikTok2
+# Features to add
+
+1. A landscape mode
